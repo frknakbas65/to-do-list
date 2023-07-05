@@ -9,13 +9,13 @@ body{
  .main-section{
     background: transparent;
     max-width: 500px;
-    width: 90;
+    width: 90%;
     height: 500px;
     margin: 30px auto;
     border-radius: 10px;
  }
  .add-section{
-    width: 500px;
+    width: 100%;
     background: #fff;
     margin: 0px auto;
     padding: 10px;
