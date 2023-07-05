@@ -18,7 +18,7 @@ require 'db_conn.php';
                 <?php } else { ?>    
                     <input type="text" name="title" placeholder="Ne yapman lazım?" />
                 <?php } ?>
-                <button type="submit">Ekle &nbsp; <span>&#43;</span></button>
+                <button type="submit">Ekle </button>
             </form>
         </div>
         <?php

@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Lobster&family=Open+Sans&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
 body{
     background: #94bce4;
 }
@@ -5,6 +8,7 @@ body{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
  }
  .main-section{
     background: transparent;
@@ -41,7 +45,6 @@ body{
     outline: none;
     background: #4caf50;
     color: #ffffff;
-    font-family: sans-serif;
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
@@ -89,7 +92,6 @@ body{
     display: inline-block;
     padding: 5px 0px;
     font-size: 17px;
-    font-family: sans-serif;
     color: #555;
 
 }
@@ -100,7 +102,6 @@ body{
     color: #888;
     padding-left: 30px;
     font-size: 14px;
-    font-family: sans-serif;
 }
 
 .remove-to-do{
@@ -108,7 +109,6 @@ body{
     float: right;
     width: 20px;
     height: 20px;
-    font-family: sans-serif;
     color: rgb(139,97,93);
     text-decoration: none;
     text-align: right;
@@ -131,7 +131,6 @@ body{
     margin: 0px 5px;
 }
 .empty{
-    font-family: sans-serif;
     font-size: 16px;
     text-align: center;
     color: #cccc;
