@@ -61,7 +61,7 @@ require 'db_conn.php';
                 
                 $.post("app/remove.php"),
                 {
-                    id :id
+                    id: id
                 },
 
                 (data) => {

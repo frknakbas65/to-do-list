@@ -13,7 +13,7 @@ if(isset($_POST['id'])){
         $todos->execute([$id]);
 
         $todo = $todos->fetch();
-        $uld = $todo['id'];
+        $uId = $todo['id'];
         $checked = $todo['checked'];
 
         $uChecked = $checked ? 0 : 1;
