@@ -1,5 +1,5 @@
 body{
-    background: #34495e;
+    background: #94bce4;
 }
  * {
     padding: 0px;
@@ -39,8 +39,8 @@ body{
     margin: 0px auto;
     border: none;
     outline: none;
-    background: #0088FF;
-    color: #fff;
+    background: #4caf50;
+    color: #ffffff;
     font-family: sans-serif;
     font-size: 16px;
     border-radius: 5px;
